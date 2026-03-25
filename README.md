@@ -94,6 +94,7 @@ When using the folder comparison feature, the following deletion options window 
 - Delete from both folders
 
 Before deletion, a warning message will appear, requiring agreement that “responsibility for deletion lies with the user” before proceeding.
+
 <img src="./images/9.png">
 
 ---
