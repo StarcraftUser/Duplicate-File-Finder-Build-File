@@ -226,7 +226,11 @@ This project includes the following libraries:
    - License: MIT License
    - More info: https://github.com/Microsoft/Microsoft.IO.RecyclableMemoryStream
 
-6. **MultiMapWapperX64.dll** (Custom Library by [StarcraftUser])
+6. **Ude.dll** (Ude.dll)
+   - License: MOZILLA PUBLIC LICENSE Version 1.1
+   - More info: https://github.com/chrisquirk/ude
+
+7. **MultiMapWapperX64.dll** (Custom Library by [StarcraftUser])
    - License: MIT License
    - More info: https://github.com/StarcraftUser/CShorpMultiMapCLR
 

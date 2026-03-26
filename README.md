@@ -19,6 +19,7 @@ The libraries included in this project are:
 - **System.* libraries** (System.Runtime.CompilerServices.Unsafe.dll, System.Numerics.Vectors.dll, System.Memory.dll, System.Buffers.dll) - MIT License  
 - **ZString** (ZString.dll) - MIT License  
 - **Microsoft.IO.RecyclableMemoryStream** (Microsoft.IO.RecyclableMemoryStream.dll) - MIT License  
+- **Ude** (Ude.dll) - MPL License 1.1  
 - **MultiMapWapperX64.dll** (Custom Library by [StarcraftUser]) - MIT License
 
 For more information about these libraries, visit their respective repositories.
