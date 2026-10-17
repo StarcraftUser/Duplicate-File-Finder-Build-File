@@ -161,7 +161,7 @@ Duplicate File Finder goes beyond simply finding duplicate files by offering ext
 - **Registry Difference Extractor**  
 <img src="./images/22.png" width="600">
 
-- **Limited Language Support**: Korean, English, Japanese, and Hebrew are experimentally included.  
+- **Limited Language Support**: Korean, English, Japanese, Hebrew, Russian, and Simplified Chinese are experimentally included.  
 &nbsp; (Since translations are AI-generated, they may sound slightly awkward.)  
 <img src="./images/23.png" width="600">
 
